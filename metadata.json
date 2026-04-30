@@ -1,0 +1,6 @@
+{
+  "name": "FluxRate - Neo-Brutalist Currency Architecture",
+  "description": "A high-fidelity reactive currency conversion platform with real-time exchange rates and historical volatility charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Currency Conversion", "Real-time Data", "Financial Visualization"]
+}
